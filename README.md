@@ -38,7 +38,7 @@ A sophisticated virtual cryptocurrency trading ecosystem integrated with an adva
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neondash.git
+git clone https://github.com/kalzimkholodros/Next-TradingSystem.git
 cd neondash
 ```
 
