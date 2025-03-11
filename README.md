@@ -2,8 +2,7 @@
 
 A sophisticated virtual cryptocurrency trading ecosystem integrated with an advanced analytics dashboard, engineered with Next.js and Prisma, offering seamless portfolio management and real-time market simulation capabilities.
 
-![Ekran görüntüsü 2025-03-12 005944](https://github.com/user-attachments/assets/2882fd15-6c3f-4935-9567-12950ac109c9)
-
+![NeonDash Preview](preview.png)
 
 ## Features
 
@@ -37,7 +36,7 @@ A sophisticated virtual cryptocurrency trading ecosystem integrated with an adva
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kalzimkholodros/neondash.git
+git clone https://github.com/yourusername/neondash.git
 cd neondash
 ```
 
@@ -110,8 +109,6 @@ neondash/
 - 7-day price history charts
 - Top gainers and losers tracking
 - Trending coins analysis
-  
-![Ekran görüntüsü 2025-03-12 010214](https://github.com/user-attachments/assets/e129123f-b048-4c83-b9a3-96b469188931)
 
 ### User Interface
 - Dark mode with neon accents
@@ -137,3 +134,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Chart.js for the beautiful charts
 - Tailwind CSS for the styling utilities
 - The cryptocurrency community for inspiration
+
+
